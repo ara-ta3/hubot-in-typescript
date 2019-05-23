@@ -2,6 +2,9 @@
   "name": "hubot-in-typescript",
   "version": "1.0.0",
   "main": "index.js",
+  "engines": {
+      "node": ">=12"
+  },
   "repository": "ssh://git@github.com/ara-ta3/hubot-in-typescript.git",
   "author": "Arata Tanaka <tarata43@yahoo.co.jp>",
   "license": "MIT",
