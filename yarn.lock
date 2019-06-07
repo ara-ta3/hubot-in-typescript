@@ -367,10 +367,10 @@ pend@~1.2.0:
   resolved "https://registry.yarnpkg.com/pend/-/pend-1.2.0.tgz#7a57eb550a6783f9115331fcf4663d5c8e007a50"
   integrity sha1-elfrVQpng/kRUzH89GY9XI4AelA=
 
-prettier@^1.17.1:
-  version "1.17.1"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.17.1.tgz#ed64b4e93e370cb8a25b9ef7fef3e4fd1c0995db"
-  integrity sha512-TzGRNvuUSmPgwivDqkZ9tM/qTGW9hqDKWOE9YHiyQdixlKbv7kvEqsmDPrcHJTKwthU774TQwZXVtaQ/mMsvjg==
+prettier@^1.18.0:
+  version "1.18.0"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.18.0.tgz#d1701ca9b2941864b52f3262b35946d2c9cd88f0"
+  integrity sha512-YsdAD29M0+WY2xXZk3i0PA16olY9qZss+AuODxglXcJ+2ZBwFv+6k5tE8GS8/HKAthaajlS/WqhdgcjumOrPlg==
 
 proxy-addr@~2.0.4:
   version "2.0.4"
